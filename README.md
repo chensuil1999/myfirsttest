@@ -4,4 +4,4 @@ for test
 #2 my ooooo,okok
 mygod5,today 
 显示今天的时间
-#3 my head
+#3 my head.ooooOoo
